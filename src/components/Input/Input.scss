@@ -1,0 +1,12 @@
+.Button{
+    padding: 4px 8px;
+    border-radius: 4px;
+    background: rgba(55, 194, 55, 0.934);
+    color: #000;
+    font-size: 16px;
+    margin: 4px;
+    &:hover{
+        transition: .4s;
+        background: #35a045;
+    }
+}
